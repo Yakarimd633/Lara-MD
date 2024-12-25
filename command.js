@@ -7,7 +7,7 @@ function cmd(info, func) {
     var data = info;
     data.function = func;
     if (!data.dontAddCommandList) data.dontAddCommandList = false;
-    if (!info.desc) info.desc = 'zmJl3JAI#YHDDJs1C3zu_BWvtYZ-ZufIQr2LvprQR-nnk6IUyIJw';
+    if (!info.desc) info.desc = 'z75kzDJB#HhW5hWXcSRKLZSFgm6XAoaIeFFNCNt-5RtYfDI5FLuM';
     if (!data.fromMe) data.fromMe = false;
     if (!info.category) data.category = 'misc';
     if(!info.filename) data.filename = "Not Provided";
